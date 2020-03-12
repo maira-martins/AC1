@@ -14,4 +14,8 @@ def hello_world():
 
 @app.route('/inicio')
 def inicio():
+<<<<<<< HEAD
     return render_template('inicio.html')
+=======
+    return render_template('inicio.html')
+>>>>>>> a2d925a5dbf9902915e4ed3442793299ce78e046
